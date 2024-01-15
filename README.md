@@ -12,6 +12,11 @@ This Flutter project is a BMI Calculator application that helps users calculate 
 - Display the BMI result along with an interpretation 📊🤔.
 - User-friendly interface 🎨.
 
+## Technologies Used 💻
+
+- Flutter 📱
+- Dart 🎯
+
 ## Getting Started 🏁
 
 1. **Clone the Repository:**
