@@ -21,4 +21,4 @@ This Flutter project is a BMI Calculator application that helps users calculate 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/dhara-maru/BMI-Calculator-Flutter.git
